@@ -19,6 +19,19 @@ func main(){
 	
 
 }
+// ALSO 
+
+/*length := getLength(email)
+if length < 1 {
+    fmt.Println("Email is invalid")
+}
+can be declaired as 
+
+if length := getLength(email); length < 1 {
+    fmt.Println("Email is invalid")
+}
+*/ 
+
 
 
 
